@@ -36,4 +36,4 @@ The objective of these labs is to design, implement, and analyze standard numeri
 
 ## Prerequisites & Tools
 * **Software:** [Scilab](https://www.scilab.org/)
-* **Course Reference:** *Numerical Analysis (1CS)* — Pr. H. Haddadou, ESI (2026/2027)
+* **Course Reference:** *Numerical Analysis (1CS)* - Pr. H. Haddadou, ESI (2026/2027)
